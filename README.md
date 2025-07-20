@@ -11,13 +11,11 @@ Private Code Sharing & Technical Hiring Platform
 ## Features
 
 -   Private, non-discoverable code sharing links
--   GitHub and email sign-in (waitlist with email validation)
+-   GitHub and email sign-in
 -   Animated landing page and stats
 -   Analytics dashboard for project engagement
 -   Assignment management for companies
 -   Candidate analytics and hiring insights
--   Modern, responsive design (React + Vite)
--   Waitlist system with email/IP logging
 
 ## Tech Stack
 
